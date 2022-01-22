@@ -33,7 +33,7 @@ const solution = document.querySelector('.here')
 button.addEventListener('click', getQuote)
 
 function changeStatus () {
-    button.innerText="Again"
+    button.innerText="Another one"
     button.classList.remove('remove')
     
 }

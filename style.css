@@ -1,3 +1,42 @@
 .remove {
   display: none;
 }
+
+body {
+  background-color: #fed7bf;
+  color: #4d343f;
+  font-family: "Roboto", sans-serif;
+}
+
+.container {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  width: 70vh;
+  margin: 0 auto;
+  padding: 20px 30px 20px 30px;
+  margin-top: 40px;
+}
+
+.here,
+h1 {
+  width: 70vh;
+  margin: 0 auto;
+  margin-top: 40px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 50px;
+}
+
+button {
+  display: block;
+  margin: 0 auto;
+  background-color: #e4afb0;
+  outline: none;
+  cursor: pointer;
+  border-radius: 4px;
+  border: none;
+  padding: 8px 8px;
+  font-weight: 700;
+  font-size: 15px;
+}
