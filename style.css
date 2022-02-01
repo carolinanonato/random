@@ -3,8 +3,8 @@
 }
 
 body {
-  background-color: #fed7bf;
-  color: #4d343f;
+  background-color: #f0e0d7;
+  color: #251933;
   font-family: "Roboto", sans-serif;
 }
 
@@ -14,7 +14,7 @@ body {
   margin: 0 auto;
   padding: 20px 30px 20px 30px;
   margin-top: 40px;
-  background-color: #dbbeabc5;
+  background-color: #dbb59bc5;
 }
 
 .here,
@@ -27,12 +27,13 @@ h1 {
 h1 {
   text-align: center;
   font-size: 40px;
+  color: rgb(28, 46, 39);
 }
 
 button {
   display: block;
   margin: 0 auto;
-  background-color: #e4afb0;
+  background-color: #80c0c9;
   outline: none;
   cursor: pointer;
   border-radius: 4px;
